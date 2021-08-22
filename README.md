@@ -8,11 +8,10 @@ As a career changer and a codenewbie, I am thrilled by the idea of improving peo
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
+| Name                         | Description                                                                                             | Tech/tools            |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------| --------------------- |
+| **My portfolio web page**    | A web page to apply what I have learned during my self-taught study. To visit the page just click [here]         (https://lauramaddaluno.github.io/portfolio/)                                                                                            | HTML, CSS, JavaScript |
+                                 
 ## Work Experience
 
 **Freelance** (Jan. 2006 to Feb. 2020)  
@@ -54,18 +53,22 @@ My mindset is based on rules and **logical thinking**, thanks to my studies in m
 ## Education
 
 #### Makers Academy (26 June to date)
-
+- Git and GitHub
+- Command line
 - Ruby
 - RSpec
 
-#### Your University / College (start_date to end_date)
+#### Accademia del Belcanto “Rodolfo Celletti”, Martina Franca, IT (March - Nov 2012)
+- High-level performance singing repertoire ranging from Baroque to contemporary
+ 
+#### “Conservatorio D. Cimarosa”, AV, IT (Nov 2003 - March 2007)
+- M.A. in Singing, (Outstanding) 
 
-* Nov. 2012:	Accademia del Belcanto “Rodolfo Celletti”, Martina Franca, IT 
-* Mar. 2007:	M.A. in Singing, (Outstanding) “Conservatorio D. Cimarosa”, AV, IT 
-* Jul.  2001:	GCSE Advanced Level “ Liceo Classico Pitagora”, Pozzuoli, IT 
+#### “ Liceo Classico Pitagora”, Pozzuoli, IT (Sept 1996 - July 2001)
+- GCSE Advanced Level 
 
 
-#### Any other qualifications
+#### Other qualifications
 
 * May   2021:  Responsive Web Design, freeCodeCamp 
 * Apr.  2013:	 Certificate English at the CEFR B2 level, Rose of YorkLanguage School, London 
@@ -74,4 +77,6 @@ My mindset is based on rules and **logical thinking**, thanks to my studies in m
 
 ## Hobbies
 
-I love to bake and I am very proud of my bread an pizza 
+I really enjoy using my creativity and my hands to bring projects to life.    
+I love to bake and I am very proud of my bread an pizza, but [here](https://lauramaddaluno.github.io/product-landing-page/) you can see some of my cakes.
+
