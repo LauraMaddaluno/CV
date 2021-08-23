@@ -1,6 +1,6 @@
 ## Laura Maddaluno
 
-I am a junior front-end developer, resilient, reflective and passionate about coding. During last year, I taught myself how to code, using resources like Udemy, freeCodeCamp, codebar and Codecademy. I successfully built my first projects in HTML, CSS, JS within a short time.
+I am a junior software developer, resilient, reflective and passionate about coding. During last year, I taught myself how to code, using resources like Udemy, freeCodeCamp, codebar and Codecademy. I successfully built my first projects in HTML, CSS, JS within a short time.
 
 I enjoy undertaking new challenges both in coding and my life’s journey. I attain complete satisfaction upon achieving beneficial results and solutions, which in turn encourages me to continuously improve.
 As a career changer and a codenewbie, I am thrilled by the idea of improving people's lives through technology.
