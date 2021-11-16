@@ -10,7 +10,7 @@ As a career changer and a codenewbie, I am thrilled by the idea of improving peo
 
 | Name                         | Description                                                                                             | Tech/tools            |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------| --------------------- |
-| **My portfolio web page**    | A web page to apply what I have learned during my self-taught study. To visit the page just click [here]         (https://lauramaddaluno.github.io/portfolio/)                                                                                            | HTML, CSS, JavaScript |
+| **My portfolio web page**    | A web page to apply what I have learned during my self-taught study. To visit the page just click                                 [here](https://lauramaddaluno.github.io/portfolio/)                                                                                    | HTML, CSS, JavaScript |
                                  
 ## Work Experience
 
