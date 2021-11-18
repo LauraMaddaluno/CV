@@ -1,6 +1,6 @@
 ## Laura Maddaluno
 
-I am a junior software developer, resilient, reflective and passionate about coding. During last year, I taught myself how to code, using resources like Udemy, freeCodeCamp, codebar and Codecademy. I successfully built my first projects in HTML, CSS, JS within a short time.
+I am a junior software developer, resilient, reflective and passionate about coding. During last year, I taught myself how to code, using resources like Udemy, freeCodeCamp, codebar and Codecademy. I was able to build my first projects in HTML, CSS, and JS in a short amount of time, which gave me the opportunity to receive a scholarship to Makers Academy, where I learned about the power of a growth mindset and the joy of working in a dev team.
 
 I enjoy undertaking new challenges both in coding and my life’s journey. I attain complete satisfaction upon achieving beneficial results and solutions, which in turn encourages me to continuously improve.
 As a career changer and a codenewbie, I am thrilled by the idea of improving people's lives through technology.
