@@ -52,7 +52,7 @@ My mindset is based on rules and **logical thinking**, thanks to my studies in m
 
 ## Education
 
-#### Makers Academy (26 June to date)
+#### Makers Academy (26 July to 12 November)
 - Git and GitHub
 - Command line
 - Ruby
