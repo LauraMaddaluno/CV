@@ -53,11 +53,21 @@ My mindset is based on rules and **logical thinking**, thanks to my studies in m
 ## Education
 
 #### Makers Academy (26 July to 12 November)
-- Git and GitHub
-- Command line
-- Ruby
-- RSpec
-
+```
+• Git and GitHub      
+• Command line       
+• Ruby      
+• JavaScript 
+• HTML
+• Rails 
+• React
+• Bootstrap
+• CSS
+• RSpec
+• Jasmine
+• Node.js
+• Express
+```
 #### Accademia del Belcanto “Rodolfo Celletti”, Martina Franca, IT (March - Nov 2012)
 - High-level performance singing repertoire ranging from Baroque to contemporary
  
