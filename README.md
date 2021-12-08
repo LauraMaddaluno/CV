@@ -1,17 +1,41 @@
-## Laura Maddaluno
+<div align="center">
+  <h1> Laura Maddaluno </h1>
+ </div>
 
 I am a junior software developer, resilient, reflective and passionate about coding. During last year, I taught myself how to code, using resources like Udemy, freeCodeCamp, codebar and Codecademy. I was able to build my first projects in HTML, CSS, and JS in a short amount of time, which gave me the opportunity to receive a scholarship to Makers Academy, where I learned about the power of a growth mindset and the joy of working in a dev team.
 
 I enjoy undertaking new challenges both in coding and my life’s journey. I attain complete satisfaction upon achieving beneficial results and solutions, which in turn encourages me to continuously improve.
-As a career changer and a codenewbie, I am thrilled by the idea of improving people's lives through technology.
+As a career changer, I am thrilled by the idea of improving people's lives through technology.
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=LauraMaddaluno&show_icons=true&hide=stars,issues&card_width=200&theme=dark" />
+  </a>
+</div>
 
 ## Projects
 
 | Name                         | Description                                                                                             | Tech/tools            |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------| --------------------- |
-| **My portfolio web page**    | A web page to apply what I have learned during my self-taught study. To visit the page just click                                 [here](https://lauramaddaluno.github.io/portfolio/)                                                                                    | HTML, CSS, JavaScript |
-                                 
+| **My portfolio web page**    | A web page to apply what I have learned during my self-taught study. To visit the page just click [here](https://lauramaddaluno.github.io/portfolio/)| HTML, CSS, JavaScript |
+
+
+## Skills
+**Resilient and Determined**  
+- I always try to find solutions to the challenges I face, both in life and coding. I use what I have and what I know to produce the best possible results in a given situation. This makes me feel fulfilled and pushes me to continually improve myself. 
+- I was able to balance my duties as a full - time mom of a 3 years old with my learning schedule, as a result of which I built my first projects and won a Makers' scholarship.
+- 
+ 
+**Self-motivation**, **performing under pressure**, **teamwork**  
+- This are all transferable qualities that I've honed through my singing career and enhanced during Makers Academy Bootcamp. 
+- I had the opportunity to plan concerts and events where the performance was enjoyed by the audience and was fulfilling for the musicians. My aim is the same for coding, I adore the idea that people can interact with what I have created and, even better, they can use it. 
+- During Makers bootcamp 
+
+**Communication**, **logical thinking**,
+- My mindset is based on rules and logical thinking, thanks to my studies in mathematics, Latin and ancient Greek.
+- These skills, combined with my **calm**, **confident and reassuring personality**, have meant that I have helped my students with different learning styles to achieve excellent results. My perseverance and attention to detail helped my pupils to improve on their learning styles and the majority of them achieved an A score especially in mathematics.
+
+
 ## Work Experience
 
 **Freelance** (Jan. 2006 to Feb. 2020)  
@@ -38,15 +62,6 @@ Supported and improved the outcomes of over 10 pupils aged 6 to 17 years with va
 * Effectively applied different techniques to bring about engagement, improved self-confidence and ability to achieve tasks on their own. 
 * All pupils improved their academic abilities, from being unable to achieve a pass score to scoring a minimum of C scores with the majority achieving A scores especially in mathematics.
 * Successfully assisting one of my pupils to overcome her stutter and lack of self-confidence through skills learnt as a trained singer.
-
-
-## Skills
-I am **resilient** and **determined** to find solutions to the challenges I face, both in life and coding. I use what I have and what I know to produce the best possible results in a given situation.This makes me feel fulfilled and pushes me to continually improve myself. 
-I was able to balance my duties as a full - time mom of a 3 years old with my learning schedule, as a result of which I built my first projects and won a Makers' scholarship.
- 
-**Communication**, **self-motivation**, **performing under pressure**, and **teamwork** are all transferable qualities that I've honed through my singing career. I had the opportunity to plan concerts and events where the performance was enjoyed by the audience and was fulfilling for the musicians. My aim is the same for coding, I adore the idea that people can interact with what I have created and, even better, they can use it. 
-
-My mindset is based on rules and **logical thinking**, thanks to my studies in mathematics, Latin and ancient Greek. These skills, combined with my **calm**, **confident and reassuring personality**, have meant that I have helped my students with different learning styles to achieve excellent results. My perseverance and attention to detail helped my pupils to improve on their learning styles and the majority of them achieved an A score especially in mathematics.
 
 
 
