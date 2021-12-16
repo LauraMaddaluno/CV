@@ -100,6 +100,6 @@ Intensive Full Stack Software Engineering Bootcamp
 ## Hobbies
 
 I am an active member of codebar as student and as volunteer and I also enjoy TDD with Ladies of code.  
-I really enjoy using my creativity and my hands to bring projects to life, for example I made 150 origamy wedding party invitation. 
+I really enjoy using my creativity and my hands to bring projects to life, for example I made 150 origamy wedding party invitation.  
 I love to bake and I am very proud of my bread an pizza, but [here](https://lauramaddaluno.github.io/product-landing-page/) you can see some of my cakes.
 
