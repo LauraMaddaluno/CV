@@ -73,7 +73,7 @@ Supported and improved the outcomes of over 10 pupils aged 6 to 17 years with va
 #### Makers Academy (July 2021 to November 2021)
 Intensive Full Stack Software Engineering Bootcamp
 
-- Pair programming and team engineering projects
+- Pair programming and team engineering projects, including training in meditation, empathy and exchange feedback
 - Object Oriented Principles, Test Driven Development, Model View Controller, Domain Driven Development
 - Methodologies: Agile/Extreme Programming
 - Languages: Ruby, JavaScript, HTML, CSS, SQL
@@ -92,14 +92,14 @@ Intensive Full Stack Software Engineering Bootcamp
 
 #### Other qualifications
 
-* May   2021:  Responsive Web Design, freeCodeCamp 
-* Apr.  2013:	 Certificate English at the CEFR B2 level, Rose of YorkLanguage School, London 
-* Mar.  2008:	 Theoretical Seminar Experiential Introduction to Music Therapy, Città dell'Essere 
-* Feb.  2008:	 Theories and techniques of interpersonal communication, GI Group 
+* Responsive Web Design, freeCodeCamp, online,  May   2021
+* Certificate English at the CEFR B2 level, Rose of YorkLanguage School, London Apr.  2013
+* Theoretical Seminar Experiential Introduction to Music Therapy, Città dell'Essere, Naples Mar.  2008
+* Theories and techniques of interpersonal communication, GI Group, Naples Feb.  2008
 
 ## Hobbies
 
 I am an active member of codebar as student and as volunteer and I also enjoy TDD with Ladies of code.  
-I really enjoy using my creativity and my hands to bring projects to life.    
+I really enjoy using my creativity and my hands to bring projects to life, for example I made 150 origamy wedding party invitation. 
 I love to bake and I am very proud of my bread an pizza, but [here](https://lauramaddaluno.github.io/product-landing-page/) you can see some of my cakes.
 
