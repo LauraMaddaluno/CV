@@ -21,41 +21,44 @@ As a career changer, I am thrilled by the idea of improving people's lives throu
 
 
 ## Skills
-**Resilient and Determined**  
-- I always try to find solutions to the challenges I face, both in life and coding. I use what I have and what I know to produce the best possible results in a given situation. This makes me feel fulfilled and pushes me to continually improve myself. 
-- I was able to balance my duties as a full - time mom of a 3 years old with my learning schedule, as a result of which I built my first projects and won a Makers' scholarship.
-- 
- 
-**Self-motivation**, **performing under pressure**, **teamwork**  
-- This are all transferable qualities that I've honed through my singing career and enhanced during Makers Academy Bootcamp. 
-- I had the opportunity to plan concerts and events where the performance was enjoyed by the audience and was fulfilling for the musicians. My aim is the same for coding, I adore the idea that people can interact with what I have created and, even better, they can use it. 
-- During Makers bootcamp 
 
-**Communication**, **logical thinking**,
-- My mindset is based on rules and logical thinking, thanks to my studies in mathematics, Latin and ancient Greek.
-- These skills, combined with my **calm**, **confident and reassuring personality**, have meant that I have helped my students with different learning styles to achieve excellent results. My perseverance and attention to detail helped my pupils to improve on their learning styles and the majority of them achieved an A score especially in mathematics.
+**Self-motivation, Resilient and Determined**
+
+As a singer, I've competed in a few contests, and although they didn't all go as wished, in order to improve myself I always asked for feedback. I spent a lot of time working on my weak points, learning new strategies and listening to advice, which helped me to win many competitions and collaborate with a variety of musicians. My self-motivation is based on my perseverance in achieving my goals. 
+This skills helped me to balance looking after my 3 years old child, full-time, and building my first projects that result in me winning a Makers scholarship.
+I'm currently keeping track of both my unmet and accomplished tasks because it motivates me to make daily improvements.
+ 
+**Communication**, **Performing under pressure**, **Teamwork**  
+ 
+During my singing career I had the opportunity to plan concerts and events where the performances ware enjoyed by the audience and ware fulfilling for the musicians. 
+Across Makers I could enhance this skills trough meditation and thanks to workshops on how give and receive feedback and how create bounderies I was able to successfull guide my team on emotional check in and retro and in several occasions I received compliments from my peer wich wrote: "Thanks for all your work this week, your spirit really kept me going at the end". "Thank you for leading today with your positive vibes...Seeing how much you're learning is inspiring". "I really enjoyed working with you and thank you for your effort and input with the project". "You do so well today, taking us all over the finish line, together".
+
+**Attention to detail**, **Logical thinking**
+
+These skills, combined with my **calm**, **confident and reassuring personality**, have meant that I have helped my students with different learning styles to achieve excellent results. My perseverance and attention to detail helped my pupils to improve on their learning styles and the majority of them achieved an A score especially in mathematics.
+During the bootcamp engenearing projects I always contributed to debug and find solutions to the challenges we faced, bringing concrete results that leaded the team to progress further.
 
 
 ## Work Experience
 
-**Freelance** (Jan. 2006 to Feb. 2020)  
-_Professional Soprano_
+_Professional Soprano_    **Freelance** (Jan. 2006 to date)  
 
-* Performed as a soloist or as part of chorus in concerts and Operas: Italy, Germany and United Kingdom. 
+ Performed as a soloist or as part of chorus in concerts and Operas: Italy, Germany and United Kingdom.
+ 
 * Ensured high-level performance by quickly learning new areas and singing repertoire ranging from Baroque to contemporary, even performing twice a day during the “Festival della   Valle D'Itria”. 
 * Managed and led singers, musicians and event managers to successfully produce a yearly event with an audience’s increase of 50% each year. 
 
 
-**The Royal College of Music** (May – June 2014)  
-_Neapolitan Language Coach_
+_Neapolitan Language Coach_   **The Royal College of Music** (May – June 2014)  
 
-* Lead coach of the Don Pomponio role from Rossini's opera La Gazzetta at The Royal College of Music in London. Successfully instilled in the singers to understand, pronounce and  interpret the arias and recitatives, through individual classes and collaboration during rehearsals. 
+Lead coach of the Don Pomponio role from Rossini's opera La Gazzetta at The Royal College of Music in London.
+
+* Successfully instilled in the singers to understand, pronounce and interpret the arias and recitatives, through individual classes and collaboration during rehearsals. 
 * Proficient at explaining and ensuring the singers were able to resonate with the meaning of the songs.
-* Adept at accommodating individual singers’ ability.  Exceptionally patient and able to adapt my teaching skills to ensure that all singers perfected their interpretation and     pronunciation of the recitatives and areas.
+* Adept at accommodating individual singers’ ability. Exceptionally patient and able to adapt my teaching skills to ensure that all singers perfected their interpretation and     pronunciation of the recitatives and areas.
 
 
-**Freelance** (Sept. 2007 - July 2012)  
-_Learning Support Tutor_
+_Learning Support Tutor_    **Freelance** (Sept. 2007 - July 2012)  
 
 Supported and improved the outcomes of over 10 pupils aged 6 to 17 years with various learning disabilities such as poor attention span, aggressive behaviour, lack of interest and motivation for studying, lack of self-confidence.
 
@@ -67,22 +70,16 @@ Supported and improved the outcomes of over 10 pupils aged 6 to 17 years with va
 
 ## Education
 
-#### Makers Academy (26 July to 12 November)
-```
-• Git and GitHub      
-• Command line       
-• Ruby      
-• JavaScript 
-• HTML
-• Rails 
-• React
-• Bootstrap
-• CSS
-• RSpec
-• Jasmine
-• Node.js
-• Express
-```
+#### Makers Academy (July 2021 to November 2021)
+Intensive Full Stack Software Engineering Bootcamp
+
+- Pair programming and team engineering projects
+- Object Oriented Principles, Test Driven Development, Model View Controller, Domain Driven Development
+- Methodologies: Agile/Extreme Programming
+- Languages: Ruby, JavaScript, HTML, CSS, SQL
+- Frameworks: React, Rails, Express
+- Testing frameworks: RSpec, Capybara, Jasmine, Jest
+
 #### Accademia del Belcanto “Rodolfo Celletti”, Martina Franca, IT (March - Nov 2012)
 - High-level performance singing repertoire ranging from Baroque to contemporary
  
@@ -102,6 +99,7 @@ Supported and improved the outcomes of over 10 pupils aged 6 to 17 years with va
 
 ## Hobbies
 
+I am an active member of codebar as student and as volunteer and I also enjoy TDD with Ladies of code.  
 I really enjoy using my creativity and my hands to bring projects to life.    
 I love to bake and I am very proud of my bread an pizza, but [here](https://lauramaddaluno.github.io/product-landing-page/) you can see some of my cakes.
 
