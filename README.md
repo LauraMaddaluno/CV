@@ -98,7 +98,7 @@ Intensive Full Stack Software Engineering Bootcamp
 - GCSE Advanced Level 
 
 
-#### Other qualifications
+## Other qualifications
 
 * Responsive Web Design, freeCodeCamp, online-course,  May 2021  
 * Learn Ruby, codecademy, online-course, April 2021
