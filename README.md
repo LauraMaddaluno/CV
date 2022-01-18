@@ -20,7 +20,7 @@ As a career changer, I am thrilled by the idea of improving people's lives throu
 
 | Name                         | Description                                                                                             | Tech/tools            |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------| --------------------- |
-| [**Sneaker Seeker**](https://github.com/InfobyAdrienne/sneaker_seeker_frontend_lm_ag2) | A web app for sneakerheads, where they can find all the releases shoes. To visit the page just click [here](https://sneakerseekerapp.herokuapp.com/)| React, Bootstrap, CSS, JavaScript |
+| [**Sneaker Seeker**](https://github.com/InfobyAdrienne/sneaker_seeker_frontend_lm_ag2) | A web app for sneakerheads, where they can find all the releases shoes. To visit the page just click [here](https://sneakerseekerapp.herokuapp.com/)| React, Express, JavaScript, Bootstrap, CSS |
 | [**My portfolio web page**](https://github.com/LauraMaddaluno/portfolio) | A web page to apply what I have learned during my self-taught study. To visit the page just click [here](https://lauramaddaluno.github.io/portfolio/)| HTML, CSS, JavaScript |
 
 
