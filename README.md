@@ -1,6 +1,9 @@
 <div align="center">
   <h1> Laura Maddaluno </h1>
- </div>
+  
+[Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Other qualifications](#other-qualifications) | [Hobbies](#hobbies) 
+ 
+</div>
 
 I am a junior software developer, resilient, reflective and passionate about coding. During last year, I taught myself how to code, using resources like Udemy, freeCodeCamp, codebar and Codecademy. I was able to build my first projects in HTML, CSS, and JS in a short amount of time, which gave me the opportunity to receive a scholarship to Makers Academy, where I learned about the power of a growth mindset and the joy of working in a dev team.
 
